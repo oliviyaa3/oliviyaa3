@@ -1,4 +1,5 @@
 ## Hi, I'm Oliviya 👋
+<img align="right" width="500" height="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"/>
 
 <!--
 **oliviyaa3/oliviyaa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
